@@ -1,0 +1,5 @@
+OPENSEARCH/.env
+QDRANT/.env
+QDRANT/__pycache__
+OPENSEARCH/__pycache__
+.venv
